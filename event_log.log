@@ -1,0 +1,5 @@
+Event Log:
+Timestamp, Event
+2023-01-01 00:00:00, Obstacle detected
+2023-01-01 00:00:02, Low battery
+2023-01-01 00:00:04, Path deviation
